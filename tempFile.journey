@@ -1,0 +1,1 @@
+use j10 ; select count(*) from users where user='harsha' and password='sri';
